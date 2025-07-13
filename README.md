@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gurpreet+Arora!;Full-Stack+Dev+in+Progress;Building+clean%2C+practical+apps;Still+learning%2C+still+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+in+Progress;Building+Clean+%26+Practical+Apps;Learning+by+Doing;Exploring+React%2C+Node+%26+Beyond" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hey there, I'm Gurpreet 👋</h1>
+
 
 <p align="center"><i>CS Sophomore at RGIPT · Full-Stack Developer in Progress · Passionate about clean UI & solving real-world problems</i></p>
 
