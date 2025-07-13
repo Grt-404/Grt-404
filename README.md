@@ -1,61 +1,62 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gurpreet+Arora!;Full-Stack+Dev+in+Progress;Building+clean%2C+practical+apps;Still+learning%2C+still+building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hey there, I'm Gurpreet 👋</h1>
 
-<p align="center">
-  <i>Web Developer in Progress | React & Node Enthusiast | Always Building Something Cool</i>
-</p>
+<p align="center"><i>CS Sophomore at RGIPT · Full-Stack Developer in Progress · Passionate about clean UI & solving real-world problems</i></p>
 
 ---
 
 ### 🛠️ Tech I’m Working With
 
-- Frontend: `HTML`, `CSS`, `JavaScript`, `React`
-- Backend (learning): `Node.js`, `Express`, `APIs`
-- Tools: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`
+Frontend: `HTML`, `CSS`, `JavaScript`, `React`  
+Backend: `Node.js`, `Express` (learning phase)  
+Tools: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`  
+Extras: Regularly solving problems in `DSA`
 
 ---
 
-### 🚀 Projects
+### 🌐 Live Projects
 
-- [**Currency Converter**](https://github.com/Grt-404/Currency-converter)  
-  A clean and minimal currency converter built using pure HTML, CSS, and JS. It fetches live exchange rates through a public API and focuses on responsive UI and smooth UX.
+#### 🔸 [Currency Converter](https://grt-404.github.io/Currency-converter/)
+A sleek, minimal currency conversion tool using only HTML, CSS, and JavaScript. It features:
+- Responsive UI with glassmorphism
+- Live exchange rates via API
+- Instant conversion with visual clarity
 
-- [**SOMA**](https://github.com/Grt-404/Soma)  
-  An ML-powered Moon surface analysis tool. It detects boulders and landslides from satellite imagery using OpenCV — aimed at improving lunar navigation and landing risk analysis.
-
----
-
-### 🌱 Currently
-
-- Learning React and building frontend components  
-- Exploring backend with Node.js + Express  
-- Practicing **DSA side by side** using Python/C++  
-- Improving API integration skills
+Deployed via **GitHub Pages**  
+→ Check it out live: [`grt-404.github.io/Currency-converter`](https://grt-404.github.io/Currency-converter/)
 
 ---
 
-### 📌 What Drives Me
+#### 🔸 [SOMA – Lunar Surface Analyzer](https://soma-zspu.onrender.com/)
+A research-driven prototype to detect **Moon boulders and landslides** using image processing techniques (OpenCV + ML). Key features:
+- Shape-based detection
+- Heatmap visualization
+- Upload your own satellite images
 
-I like building projects that **actually work** — things I can show, deploy, and improve. I prefer **learning by doing**, even if I break things along the way.  
-Every project teaches me something new, and that’s the fun of it.
-
----
-
-### 🧩 Things I’ll Explore Next
-
-- Deploying real-world projects when they’re ready  
-- React-based portfolio site  
-- Possibly exploring Firebase or other real-time features
+⚠️ **Note**: As this is a prototype, max image size is currently **1MB** due to hosting limits. Optimized for `.jpg` and `.tif` formats.  
+→ Live here: [`soma-zspu.onrender.com`](https://soma-zspu.onrender.com/)
 
 ---
 
-### 🤝 Let's Connect
+### 💡 Currently Exploring
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurpreet-arora-938328343/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Grt-404)
+- Component-based architecture in React  
+- REST API integration with Node.js  
+- Hands-on DSA problems 
+- Planning a personal portfolio site with animations
+
+---
+
+### 🤝 Let’s Connect
+
+**GitHub**: [github.com/Grt-404](https://github.com/Grt-404)  
+**LinkedIn**: [linkedin.com/in/gurpreet-arora-938328343](https://www.linkedin.com/in/gurpreet-arora-938328343/)
 
 ---
 
 <p align="center">
   <i>"Still learning. Still building. Still curious." – Me</i>
 </p>
-
