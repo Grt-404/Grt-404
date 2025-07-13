@@ -16,20 +16,20 @@
 
 ### 🚀 Projects
 
-- [**SOMA**](https://github.com/Grt-404/Soma)  
-  Lunar surface analysis using OpenCV. A smart detection system for Moon boulders and landslides — my first deep dive into applied tech.
-
 - [**Currency Converter**](https://github.com/Grt-404/Currency-converter)  
-  Simple, sharp UI built with HTML/CSS/JS. Uses a live exchange rate API and clean UI elements — responsive and minimal.
+  A clean and minimal currency converter built using pure HTML, CSS, and JS. It fetches live exchange rates through a public API and focuses on responsive UI and smooth UX.
+
+- [**SOMA**](https://github.com/Grt-404/Soma)  
+  An ML-powered Moon surface analysis tool. It detects boulders and landslides from satellite imagery using OpenCV — aimed at improving lunar navigation and landing risk analysis.
 
 ---
 
 ### 🌱 Currently
 
-- Learning React deeply — hooks, routing, component architecture  
-- Exploring backend development with Node.js  
-- Understanding real-world REST APIs and full-stack design  
-- Working on new ideas to deploy end-to-end
+- Learning React and building frontend components  
+- Exploring backend with Node.js + Express  
+- Practicing **DSA side by side** using Python/C++  
+- Improving API integration skills
 
 ---
 
@@ -40,18 +40,17 @@ Every project teaches me something new, and that’s the fun of it.
 
 ---
 
-### 🧩 Things I’m Exploring Next
+### 🧩 Things I’ll Explore Next
 
-- Full-stack project deployment (Render, Netlify, GitHub Pages)  
-- Portfolio website with React  
-- Real-time apps with WebSocket or Firebase  
-- Basic devOps & hosting
+- Deploying real-world projects when they’re ready  
+- React-based portfolio site  
+- Possibly exploring Firebase or other real-time features
 
 ---
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurpreetarora404/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurpreet-arora-938328343/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Grt-404)
 
 ---
@@ -59,3 +58,4 @@ Every project teaches me something new, and that’s the fun of it.
 <p align="center">
   <i>"Still learning. Still building. Still curious." – Me</i>
 </p>
+
