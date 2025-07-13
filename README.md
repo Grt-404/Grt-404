@@ -47,7 +47,6 @@ A research-driven prototype to detect **Moon boulders and landslides** using ima
 - Component-based architecture in React  
 - REST API integration with Node.js  
 - Hands-on DSA problems 
-- Planning a personal portfolio site with animations
 
 ---
 
