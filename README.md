@@ -59,9 +59,10 @@ A research prototype for **Moon boulder & landslide detection** using **OpenCV +
   <a href="https://github.com/Grt-404" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:24cs3022@rgipt.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center"><i>"Still learning. Still building. Still curious."</i></p>
+
