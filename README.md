@@ -4,64 +4,64 @@
 
 <h1 align="center">Hey there, I'm Gurpreet 👋</h1>
 
-<p align="center"><i>CS Sophomore at RGIPT · Full-Stack Developer in Progress · Passionate about clean UI & solving real-world problems</i></p>
+<p align="center"><i>CS Sophomore at RGIPT · Focused on Web Development & Practical Problem Solving</i></p>
 
 ---
 
-### 🛠️ Tech I’m Working With
+### 🧰 Tech Stack
 
-Frontend: `HTML`, `CSS`, `JavaScript`, `React`  
-Backend: `Node.js`, `Express` (learning phase)  
-Tools: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`  
-Extras: Regularly solving problems in `DSA`
-
----
-
-### 🌐 Live Projects
-
-#### 🔸 [Recipe Search App](https://grt-404.github.io/Recipe-Search-App/)
-A visually-rich recipe discovery app using TheMealDB API. Features include:
-- Keyword-based dish search  
-- Ingredient breakdown with measurements  
-- Step-by-step cooking instructions  
-
-Deployed via **GitHub Pages**  
-→ Live here: [`grt-404.github.io/Recipe-Search-App`](https://grt-404.github.io/Recipe-Search-App/)
+**Frontend**: `HTML`, `CSS`, `JavaScript`, `React`  
+**Backend**: `Node.js`, `Express` (in progress)  
+**Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`  
+**Practicing**: `DSA`, `API Integration`, `Clean UI`
 
 ---
 
-#### 🔸 [Currency Converter](https://grt-404.github.io/Currency-converter/)
-A sleek, minimal currency conversion tool using only HTML, CSS, and JavaScript. It features:
-- Responsive UI with glassmorphism
-- Live exchange rates via API
-- Instant conversion with visual clarity
+### 🚀 Projects
 
-Deployed via **GitHub Pages**  
-→ Check it out live: [`grt-404.github.io/Currency-converter`](https://grt-404.github.io/Currency-converter/)
+#### 🔹 [Recipe Search App](https://grt-404.github.io/Recipe-Search-App/)
+Discover meals with a rich UI using TheMealDB API  
+→ **Search by keyword**, view **ingredients**, and follow **instructions**  
+🌐 **[Live Preview](https://grt-404.github.io/Recipe-Search-App/)**
 
 ---
 
-#### 🔸 [SOMA – Lunar Surface Analyzer](https://soma-zspu.onrender.com/)
-A research-driven prototype to detect **Moon boulders and landslides** using image processing techniques (OpenCV + ML). Key features:
-- Shape-based detection
-- Heatmap visualization
-- Upload your own satellite images
-
-⚠️ **Note**: As this is a prototype, max image size is currently **1MB** due to hosting limits. Optimized for `.jpg` and `.tif` formats.  
-→ Live here: [`soma-zspu.onrender.com`](https://soma-zspu.onrender.com/)
+#### 🔹 [Currency Converter](https://grt-404.github.io/Currency-converter/)
+Minimal, responsive currency converter with live exchange rates  
+→ Built using **HTML**, **CSS**, and **JavaScript**  
+🌐 **[Live Preview](https://grt-404.github.io/Currency-converter/)**
 
 ---
 
-### 💡 Currently Exploring
+#### 🔹 [SOMA – Lunar Surface Analyzer](https://soma-zspu.onrender.com/)
+A research prototype for **Moon boulder & landslide detection** using **OpenCV + ML**  
+→ Upload `.jpg` or `.tif` satellite images  
+→ Get **shape-based detection**, **heatmaps**, and **risk analysis**  
+🌐 **[Live Site](https://soma-zspu.onrender.com/)**  
+⚠️ *Optimized for 1MB images due to hosting limits*
 
-- Component-based architecture in React  
-- REST API integration with Node.js  
-- Hands-on DSA problems 
+---
+
+### 📌 Currently Exploring
+
+- Building scalable components in **React**  
+- REST APIs with **Node.js & Express**  
+- Stronger fundamentals via **DSA & problem-solving**
 
 ---
 
 ### 🤝 Let’s Connect
 
-**GitHub**: [github.com/Grt-404](https://github.com/Grt-404)<br>
-**LinkedIn**: [linkedin.com/in/gurpreet-arora-938328343](https://www.linkedin.com/in/gurpreet-arora-938328343/)  ---  
- <p align="center">   <i>"Still learning. Still building. Still curious." – Me</i> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/gurpreet-arora-938328343" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Grt-404" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center"><i>"Still learning. Still building. Still curious."</i></p>
