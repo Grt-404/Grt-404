@@ -24,7 +24,6 @@ A visually-rich recipe discovery app using TheMealDB API. Features include:
 - Keyword-based dish search  
 - Ingredient breakdown with measurements  
 - Step-by-step cooking instructions  
-- ❤️ Save recipes as favorites using localStorage
 
 Deployed via **GitHub Pages**  
 → Live here: [`grt-404.github.io/Recipe-Search-App`](https://grt-404.github.io/Recipe-Search-App/)
@@ -63,6 +62,6 @@ A research-driven prototype to detect **Moon boulders and landslides** using ima
 
 ### 🤝 Let’s Connect
 
-**GitHub**: [github.com/Grt-404](https://github.com/Grt-404)
- **LinkedIn**: [linkedin.com/in/gurpreet-arora-938328343](https://www.linkedin.com/in/gurpreet-arora-938328343/)  ---  
+**GitHub**: [github.com/Grt-404](https://github.com/Grt-404)<br>
+**LinkedIn**: [linkedin.com/in/gurpreet-arora-938328343](https://www.linkedin.com/in/gurpreet-arora-938328343/)  ---  
  <p align="center">   <i>"Still learning. Still building. Still curious." – Me</i> </p>
