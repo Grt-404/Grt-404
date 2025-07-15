@@ -19,6 +19,15 @@
 
 ### 🚀 Projects
 
+#### 🔹 [Task Manager App](https://github.com/Grt-404/task-manager-app)
+A dark-themed full-stack app to create, read, and rename tasks using file-based storage  
+→ Built with **Node.js**, **Express**, **EJS**, and custom **dark UI CSS**  
+→ Supports **task creation**, **dynamic rendering**, and **file renaming**  
+ 
+📁 **[GitHub Repo](https://github.com/Grt-404/task-manager-app)**
+
+---
+
 #### 🔹 [Recipe Search App](https://grt-404.github.io/Recipe-Search-App/)
 Discover meals with a rich UI using TheMealDB API  
 → **Search by keyword**, view **ingredients**, and follow **instructions**  
