@@ -24,7 +24,6 @@ A dark-themed full-stack app to create, read, and rename tasks using file-based 
 → Built with **Node.js**, **Express**, **EJS**, and custom **dark UI CSS**  
 → Supports **task creation**, **dynamic rendering**, and **file renaming**  
 🌐 **[Live Site](https://task-manager-1-c8z3.onrender.com/)**  
-📂 **[Source Code](https://github.com/Grt-404/task-manager-app)**
 
 ---
 
