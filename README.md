@@ -11,7 +11,7 @@
 ### 🧰 Tech Stack
 
 **Frontend**: `HTML`, `CSS`, `JavaScript`, `React`  
-**Backend**: `Node.js`, `Express` (in progress)  
+**Backend**: `Node.js`, `Express`  
 **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`  
 **Practicing**: `DSA`, `API Integration`, `Clean UI`
 
@@ -19,11 +19,12 @@
 
 ### 🚀 Projects
 
-#### 🔹 [Task Manager App](https://github.com/Grt-404/task-manager-app)
+#### 🔹 [Task Manager App](https://task-manager-1-c8z3.onrender.com)
 A dark-themed full-stack app to create, read, and rename tasks using file-based storage  
 → Built with **Node.js**, **Express**, **EJS**, and custom **dark UI CSS**  
 → Supports **task creation**, **dynamic rendering**, and **file renaming**  
- 
+🌐 **[Live Site](https://task-manager-1-c8z3.onrender.com/)**  
+📂 **[Source Code](https://github.com/Grt-404/task-manager-app)**
 
 ---
 
@@ -73,4 +74,3 @@ A research prototype for **Moon boulder & landslide detection** using **OpenCV +
 </p>
 
 <p align="center"><i>"Still learning. Still building. Still curious."</i></p>
-
