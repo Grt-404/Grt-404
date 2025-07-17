@@ -14,7 +14,7 @@ Frontend   = [ "HTML", "CSS", "JavaScript", "React" ]
 Backend    = [ "Node.js", "Express.js" ]
 Database   = [ "MongoDB" ]
 Tools      = [ "Git", "GitHub", "VS Code", "Postman", "Figma" ]
-Languages  = [ "C", "C++", "Python" ]
+Languages  = [ "C", "Python", "JavaScript" ]
 ```
 
 ---
