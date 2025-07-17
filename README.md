@@ -19,11 +19,9 @@
 
 ### 🚀 Projects
 
-#### 🔹 [Task Manager App](https://task-manager-1-c8z3.onrender.com)
 A dark-themed full-stack app to create, read, and rename tasks using file-based storage  
 → Built with **Node.js**, **Express**, **EJS**, and custom **dark UI CSS**  
 → Supports **task creation**, **dynamic rendering**, and **file renaming**  
-🌐 **[Live Site](https://task-manager-1-c8z3.onrender.com/)**  
 
 ---
 
