@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Practitioner;MERN+Stack+Focused+%7C+Clean+Code+Advocate;Problem+Solver+%7C+Always+Learning+%26+Building" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack+Specialist;Clean+Code+Advocate+%7C+Crafting+Elegant+UI%2FUX;Always+Learning+%7C+Always+Building" alt="Typing animation" />
 </p>
 
 <h1 align="center">Hey there, I'm Gurpreet 👋</h1>
+<h3 align="center">Turning clean code into beautiful experiences.</h3>
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ```js
-//Dev Toolkit
+// Dev Toolkit
 Frontend   = [ "HTML", "CSS", "JavaScript", "React" ]
 Backend    = [ "Node.js", "Express.js" ]
 Database   = [ "MongoDB" ]
@@ -19,36 +20,36 @@ Languages  = [ "C", "Python", "JavaScript" ]
 
 ---
 
-### 🧠 Practicing & Exploring
+## 🧠 Focus Areas
 
-- ⚔️ **Data Structures & Algorithms** 
-- 🔄 REST APIs, auth flows, JSON handling
-- 🌐 Clean UI & frontend performance optimization
-- 📁 Backend logic, file systems, and modular code patterns
+- 🔄 **REST APIs**, Auth flows, and JSON handling  
+- 🎨 **Frontend architecture** & design performance  
+- 🧩 **Modular backend** code structures and logic  
+- 🧼 Writing **maintainable and scalable code**  
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 ```ts
-Advanced JS | TypeScript | Next.js | Docker
+Advanced JavaScript | TypeScript | Next.js | Docker
 ```
 
 ---
 
-### 🧰 Dev Tools I Use
+## 🧰 Tools I Work With
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/gurpreet-arora-938328343" target="_blank">
@@ -60,11 +61,7 @@ Advanced JS | TypeScript | Next.js | Docker
   <a href="https://github.com/Grt-404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<!--   <a href="https://www.instagram.com/your_instagram_here" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
 </p>
-
 
 ---
 
