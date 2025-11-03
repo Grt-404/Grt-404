@@ -15,7 +15,7 @@ Building robust, scalable, and human-centric web solutions — one elegant compo
 
 I specialize in the **MERN Stack**, architecting full-stack ecosystems that balance performance, maintainability, and stunning UI/UX precision.
 
-- 🧩 **Backend & Architecture:** RESTful APIs · JWT/OAuth Auth Flows · MongoDB Aggregations · MVC Architecture  
+- 🧩 **Backend & Architecture:** RESTful APIs · JWT/OAuth Auth Flows · MongoDB Aggregations 
 - ⚛️ **Frontend & UI/UX:** React · Tailwind CSS · Component Optimization · Figma-driven Prototypes  
 - 🧠 **Code Quality & DevOps:** TypeScript · Docker · Modular & Scalable Codebases · Git Workflows  
 
@@ -42,7 +42,6 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 
 - Building robust **RESTful** and **modular backends** using Node.js & Express.  
 - Advanced **MongoDB aggregation pipelines** for optimized data access.  
-- Experience integrating **Flask-based ML endpoints** with web applications.  
 - Strong understanding of **security layers** — authentication, encryption, and tokenization.  
 
 ---
@@ -73,7 +72,7 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 > A **MERN-based alumni platform** fostering mentorship and collaboration across the global alumni community.
 
 **Modules:** Global Directory · Mentorship Matching · Event Planner  
-**Tech Stack:** `React · Node.js · MongoDB · Redux`
+**Tech Stack:** `React · Node.js · MongoDB `
 
 ---
 
