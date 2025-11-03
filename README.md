@@ -68,7 +68,7 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 
 ---
 
-### 🔗 [Sampark: The Alumni Nexus](https://github.com/Grt-404/alumni-nexus)
+### 🔗 [Sampark: The Alumni Nexus](https://github.com/Grt-404/Alumni)
 > A **MERN-based alumni platform** fostering mentorship and collaboration across the global alumni community.
 
 **Modules:** Global Directory · Mentorship Matching · Event Planner  
