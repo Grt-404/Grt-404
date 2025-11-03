@@ -63,7 +63,7 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 > The institution's primary digital platform, engineered to handle **10,000+ users** with robust scalability and optimized media.
 
 **Role:** Technical Team Contributor (Full Stack)  
-**Highlights:** Cloudinary media optimization · Dynamic content rendering · High availability  
+**Highlights:** Backend Scalibility · Dynamic content rendering · High availability  
 **Tech Stack:** `Node.js · Express · MongoDB · EJS · JavaScript`
 
 ---
