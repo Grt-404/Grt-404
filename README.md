@@ -64,7 +64,7 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 
 **Role:** Technical Team Contributor (Full Stack)  
 **Highlights:** Backend Scalibility · Dynamic content rendering · High availability  
-**Tech Stack:** `Node.js · Express · MongoDB · EJS · JavaScript`
+**Tech Stack:** `Node.js · Express · MongoDB · React · JavaScript`
 
 ---
 
