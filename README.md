@@ -1,233 +1,157 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER+|+MERN+Stack+Architect;CLEAN+CODE+ADVOCATE+|+BUILDING+SCALABLE+SOLUTIONS;ALWAYS+LEARNING+|+ALWAYS+SHIPPING" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=FULL+STACK+ARCHITECT+%7C+MERN+MASTER;CRAFTING+SCALABLE+WEB+ECOSYSTEMS;CODE+THAT+DRIVES+IMPACT" alt="Typing animation" />
 </p>
 
 <h1 align="center">
-Hi, I'm Gurpreet Arora! 🧑‍💻
+Hi, I'm Gurpreet Arora! 🚀
 </h1>
 <h3 align="center">
-Turning elegant design into functional, high-performance web experiences.
+Building the future, one elegant component and robust API at a time.
 </h3>
 
-⚡ GitHub Stats & Contributions
+💡 Core Expertise & Focus
 
-Showcasing my commitment to building and learning.
+I specialize in the MERN Stack and delivering solutions that prioritize performance, security, and exceptional user experience.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Grt-404&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&custom_title=My+GitHub+Overview" alt="Gurpreet's GitHub Stats" style="margin-bottom: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grt-404&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" style="margin-bottom: 10px;" />
-</p>
+🔑 Architecture & Backend: Designing RESTful APIs, implementing secure Auth Flows (JWT, OAuth), and performing MongoDB aggregation for high-performance data retrieval.
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grt-404&theme=dark&hide_border=true&ring=00F7FF&fire=00F7FF" alt="GitHub Streak" />
-</p>
+🎨 Frontend & UX: Building responsive UIs with React/Tailwind, optimizing component rendering, and driving clean, dynamic UI/UX design via Figma.
 
-💡 Core Tech Stack: The MERN Ecosystem
+📈 Code Quality & Scalability: Advocating for modular, testable code and actively using technologies like TypeScript for enterprise-grade solutions.
 
-I specialize in the MERN stack, delivering robust applications from database design to dynamic UIs.
+🌟 The Nexus: Featured Project Cards
 
-Category
+These are my high-impact contributions, demonstrating full-stack mastery in institutional, commercial, and academic domains.
 
-Key Technologies
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
-Frontend 🎨
+<!-- Card 1: Urjasangam Website (Primary Contribution) -->
 
-React • Tailwind CSS • Redux • EJS • JavaScript
-
-Backend ⚙️
-
-Node.js • Express.js
-
-Database 💾
-
-MongoDB
-
-Languages 💻
-
-JavaScript • C • Python
-
-Tools & Cloud ☁️
-
-Git/GitHub • VS Code • Figma • Cloudinary
-
-🚀 Featured Project Showcase (The Cards)
-
-These projects highlight my full-stack capabilities, focusing on scalability, user experience, and real-world application.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>
-<a href="https://github.com/Grt-404/urjasangam-website" target="_blank">
-🌐 Urjasangam Website
+<div style="flex: 1 1 45%; border: 2px solid #00F7FF; border-radius: 12px; padding: 20px; background-color: #1a1a1a; box-shadow: 0 0 15px rgba(0, 247, 255, 0.4);">
+<h3 style="margin-top: 0; color: #00F7FF;">
+<a href="https://github.com/Grt-404/urjasangam-website" target="_blank" style="color: inherit; text-decoration: none;">
+🥇 Urjasangam Website
 </a>
 </h3>
-<p>
-<strong>Role:</strong> Technical Team Contributor (Frontend & Backend).
-
-
-
-
-<strong>Impact:</strong> The institution's primary platform, serving <strong>10K+ active users</strong>.
+<p style="font-size: 1.1em; line-height: 1.4;">
+The institution's primary digital platform, engineered for scale and reliability, serving 10,000+ active users.
 </p>
 <p>
-<span style="font-size: 1.1em;">
-I focused on Backend Scalability and Dynamic Frontend Content. Implemented Cloudinary integration for seamless media delivery and developed dynamic pages to handle peak traffic efficiently.
-</span>
-</p>
-<p>
-<code>Node.js</code> • <code>Express</code> • <code>MongoDB</code> • <code>EJS</code> • <code>Cloudinary</code>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>
-<a href="https://github.com/Grt-404/verlace" target="_blank">
-🛍️ VERLACE (MERN E-commerce)
-</a>
-</h3>
-<p>
-<strong>Focus:</strong> Full-stack luxury e-commerce platform.
+Role: Technical Team Contributor (Frontend & Backend).
 
 
 
 
-<strong>Features:</strong> Secure admin-exclusive product management, smart cart logic, dynamic UI, and real-time filtering.
+Focus: Developed dynamic pages, implemented Cloudinary for optimized media delivery, and ensured high availability during major events.
 </p>
-<p>
-<span style="font-size: 1.1em;">
-A complex application demonstrating full command over the MERN stack, built for high security and a premium user experience from product upload to final purchase.
-</span>
+<p style="margin-bottom: 0;">
+<span style="font-weight: bold; color: #E34F26;">Tech Stack:</span> Node.js • Express • MongoDB • EJS • JavaScript
 </p>
-<p>
-<code>React</code> • <code>Express</code> • <code>MongoDB</code> • <code>Tailwind CSS</code>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>
-<a href="https://github.com/Grt-404/alumni-nexus" target="_blank">
+</div>
+
+<!-- Card 2: Sampark: The Alumni Nexus -->
+
+<div style="flex: 1 1 45%; border: 2px solid #FFD700; border-radius: 12px; padding: 20px; background-color: #1a1a1a; box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);">
+<h3 style="margin-top: 0; color: #FFD700;">
+<a href="https://github.com/Grt-404/alumni-nexus" target="_blank" style="color: inherit; text-decoration: none;">
 🔗 Sampark: The Alumni Nexus
 </a>
 </h3>
-<p>
-<strong>Focus:</strong> Community engagement platform.
-
-
-
-
-<strong>Features:</strong> Global Alumni Directory, specialized Mentorship Matching module, and integrated Event Management Suite.
+<p style="font-size: 1.1em; line-height: 1.4;">
+A dedicated MERN-stack ecosystem designed to forge professional connections within the global alumni community.
 </p>
 <p>
-<span style="font-size: 1.1em;">
-Designed to foster professional networking and institutional legacy through a centralized, responsive hub for alumni and students.
-</span>
+Function: Centralized hub featuring a Global Directory, a specialized Mentorship Matching module, and integrated tools for event planning.
 </p>
-<p>
-<code>React</code> • <code>Node.js</code> • <code>MongoDB</code>
+<p style="margin-bottom: 0;">
+<span style="font-weight: bold; color: #61DAFB;">Tech Stack:</span> React • Node.js • MongoDB • Redux
 </p>
-</td>
-<td width="50%" valign="top">
-<h3>
-<a href="https://github.com/Grt-404/sunforrce" target="_blank">
+</div>
+
+<!-- Card 3: Sunforrce (Client Portal) -->
+
+<div style="flex: 1 1 45%; border: 2px solid #339933; border-radius: 12px; padding: 20px; background-color: #1a1a1a; box-shadow: 0 0 15px rgba(51, 153, 51, 0.4);">
+<h3 style="margin-top: 0; color: #339933;">
+<a href="https://github.com/Grt-404/sunforrce" target="_blank" style="color: inherit; text-decoration: none;">
 ☀️ Sunforrce (Client Portal)
 </a>
 </h3>
-<p>
-<strong>Focus:</strong> Dedicated portal for a green energy company.
-
-
-
-
-<strong>Features:</strong> Project showcases, secure user dashboards, and efficient content management.
+<p style="font-size: 1.1em; line-height: 1.4;">
+A robust client engagement portal for a green energy company, optimized for performance and professional client interaction.
 </p>
 <p>
-<span style="font-size: 1.1em;">
-Optimized for client engagement and transparent project tracking, ensuring a professional and reliable digital presence for the business.
-</span>
+Focus: Secure user dashboards, showcasing major projects, and implementing streamlined content updates through an efficient backend.
 </p>
-<p>
-<code>EJS</code> • <code>Node.js</code> • <code>JavaScript</code>
+<p style="margin-bottom: 0;">
+<span style="font-weight: bold; color: #E34F26;">Tech Stack:</span> EJS • Node.js • JavaScript
 </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>
-<a href="https://github.com/Grt-404/soma" target="_blank">
+</div>
+
+<!-- Card 4: Soma (ML/Vision Prototype) -->
+
+<div style="flex: 1 1 45%; border: 2px solid #3776AB; border-radius: 12px; padding: 20px; background-color: #1a1a1a; box-shadow: 0 0 15px rgba(55, 118, 171, 0.4);">
+<h3 style="margin-top: 0; color: #3776AB;">
+<a href="https://github.com/Grt-404/soma" target="_blank" style="color: inherit; text-decoration: none;">
 🔭 Soma (ML/Vision Prototype)
 </a>
 </h3>
-<p>
-<strong>Focus:</strong> Academic prototype using Computer Vision.
-
-
-
-
-<strong>Tool:</strong> Utilizes OpenCV and ML for image processing.
+<p style="font-size: 1.1em; line-height: 1.4;">
+An academic prototype integrating Machine Learning and OpenCV for specialized image analysis (lunar boulder detection).
 </p>
 <p>
-<span style="font-size: 1.1em;">
-A showcase of my capability to integrate machine learning and image processing techniques into web environments, specifically for scientific data analysis (lunar mapping).
-</span>
+Capability: Showcases my ability to bridge data science techniques with web development environments for scientific application.
 </p>
-<p>
-<code>Python</code> • <code>OpenCV</code> • <code>Machine Learning</code>
+<p style="margin-bottom: 0;">
+<span style="font-weight: bold; color: #3776AB;">Tech Stack:</span> Python • OpenCV • Machine Learning
 </p>
-</td>
-<td width="50%" valign="top">
-<h3>
-<a href="https://github.com/Grt-404/postverse" target="_blank">
-💬 Postverse (Social Web App)
+</div>
+
+</div>
+
+<div style="margin-top: 30px; padding: 15px; background-color: #1a1a1a; border-radius: 8px;">
+<h3 style="margin-top: 0; color: #FF6C37;">
+<a href="https://github.com/Grt-404/verlace" target="_blank" style="color: inherit; text-decoration: none;">
+🛍️ VERLACE (MERN E-commerce)
 </a>
 </h3>
-<p>
-<strong>Focus:</strong> Full-stack social media application.
-
-
-
-
-<strong>Features:</strong> Secure user authentication, profile access, and full post CRUD (Create, Read, Update, Delete) features.
+<p style="margin-bottom: 0;">
+A full-stack luxury e-commerce platform featuring secure admin dashboards, real-time product filtering, and sophisticated cart logic.
+<span style="font-weight: bold; color: #61DAFB;">(Tech: React, Express, MongoDB, Tailwind CSS)</span>
 </p>
-<p>
-<span style="font-size: 1.1em;">
-A demonstration of core full-stack principles and data relationship management in a real-time environment.
-</span>
-</p>
-<p>
-<code>Node.js</code> • <code>Express</code> • <code>MongoDB</code> • <code>HTML/CSS</code>
-</p>
-</td>
-</tr>
-</table>
+</div>
+
+📊 My GitHub Activity
+
+Demonstrating commitment and consistency across all projects.
 
 <p align="center">
-<a href="https://github.com/Grt-404/user-management-system" target="_blank">
-🔑 User Management System:
-</a> Full-stack CRUD with a clean frontend (<code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>).
+<img src="https://github-readme-stats.vercel.app/api?username=Grt-404&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&custom_title=GURPREET'S+STATISTICS" alt="Gurpreet's GitHub Stats" style="margin-bottom: 10px; width: 48%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grt-404&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="margin-bottom: 10px; width: 48%;" />
 </p>
-
-🧠 Always Learning
-
-Expanding my horizons with cutting-edge tools and languages:
-
-// Next-Level Development
-TypeScript | Next.js | Docker | Cloud Architectures
-
-
-🛠 Tools I Work With
 
 <p align="center">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grt-404&theme=gotham&hide_border=true&ring=00F7FF&fire=00F7FF&side_panel_bg=282c34" alt="GitHub Streak" />
 </p>
 
-🤝 Connect With Me
+🛠 My Development Environment
 
-Let's discuss projects, opportunities, or anything in the MERN stack!
+<p align="center">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=282C34"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=282C34"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=282C34"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282C34"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34"/>
+</p>
+
+📚 Currently Exploring
+
+Deepening expertise in modern standards for enterprise development.
+
+// Advanced Development
+TypeScript | Next.js (Full Stack) | Docker (Containerization) | Cloud Architectures
+
+
+🤝 Connect & Collaborate
 
 <p align="center">
 <a href="https://linkedin.com/in/gurpreet-arora-938328343" target="_blank">
