@@ -92,7 +92,7 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 
 ---
 
-### 🛍️ [VERLACE (MERN E-commerce)](https://github.com/Grt-404/verlace)
+### 🛍️ [VERLACE (MERN E-commerce)](https://github.com/Grt-404/VERLACE-)
 > A full-stack **luxury e-commerce platform** with secure admin panels, live product filtering, and advanced cart logic.
 
 **Tech Stack:** `React · Express · MongoDB · Tailwind CSS`
