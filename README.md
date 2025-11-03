@@ -68,4 +68,3 @@ Advanced JavaScript | TypeScript | Next.js | Docker
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Grt-404&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-update it and make it more professional and add otherskiils like dsa and ml as well
