@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Gurpreet Arora</span></h1>
-<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Design-Driven Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | Design-Driven Engineer</h3>
 
 <p align="center">
 Building robust, scalable, and human-centric web solutions — one elegant component and performant API at a time.
