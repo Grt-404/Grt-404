@@ -19,6 +19,7 @@ I specialize in the **MERN Stack**, architecting full-stack ecosystems that bala
 - ⚛️ **Frontend & UI/UX:** React · Tailwind CSS · Component Optimization · Figma-driven Prototypes  
 - 🧠 **Code Quality & DevOps:** TypeScript · Docker · Modular & Scalable Codebases · Git Workflows  
 
+My Portfolio - https://portfolio-b48q.vercel.app/
 ---
 
 ## ⚙️ Technologies I Work With
